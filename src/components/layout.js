@@ -45,15 +45,23 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="linkedin.com/in/fatima-altaf-55185014/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                <i class="fab fa-linkedin-in"></i>
               </a>
               <a
-                href="https://twitter.com"
+                href="https://github.com/fatimaaltaf"
+                title="GitHub"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub
+              </a>
+              <a
+                href="https://twitter.com/msfatimaa"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
